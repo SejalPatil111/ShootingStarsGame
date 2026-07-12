@@ -6,7 +6,7 @@ A simple 2D shooting game built with React Native and Expo — rotate your gun, 
 
 1. **Clone the repository**
 ```bash
-   git clone https://github.com/YOUR-USERNAME/ShootingStarsGame.git
+   git clone https://github.com/SejalPatil111/ShootingStarsGame.git
    cd ShootingStarsGame
 ```
 
